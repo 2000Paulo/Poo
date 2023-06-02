@@ -1,4 +1,0 @@
-Herança é um conceito da programação orientada a objetos em que uma classe pode herdar atributos e métodos de outra classe. 
-Isso significa que uma classe derivada pode aproveitar e reutilizar 
-o código de uma classe base, evitando a duplicação de código. A herança permite criar uma hierarquia de classes, 
-onde as classes derivadas podem adicionar ou modificar o comportamento da classe base.
