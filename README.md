@@ -5,7 +5,7 @@ O encapsulamento protege os dados internos da classe, tornando-os privados e per
 Isso significa que o estado interno da classe é mantido oculto e só pode ser manipulado de acordo com as regras definidas pelos métodos públicos. 
 Em resumo, o encapsulamento permite controlar o acesso aos dados e fornece uma interface controlada para interagir com eles.
 
-#Herança:
+# Herança:
 
 Herança é um conceito da programação orientada a objetos em que uma classe pode herdar atributos e métodos de outra classe. 
 Isso significa que uma classe derivada pode aproveitar e reutilizar 
