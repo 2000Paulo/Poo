@@ -1,0 +1,5 @@
+
+Polimorfismo é a capacidade de objetos diferentes serem tratados de maneira semelhante, 
+mesmo tendo comportamentos diferentes. 
+Isso permite que objetos de diferentes tipos sejam usados 
+como se fossem do mesmo tipo mais genérico.
