@@ -1,4 +1,0 @@
-Encapsulamento é um conceito da programação orientada a objetos que envolve o agrupamento de dados e comportamentos relacionados dentro de uma única unidade, chamada de classe. 
-O encapsulamento protege os dados internos da classe, tornando-os privados e permitindo o acesso a eles somente por meio de métodos públicos. 
-Isso significa que o estado interno da classe é mantido oculto e só pode ser manipulado de acordo com as regras definidas pelos métodos públicos. 
-Em resumo, o encapsulamento permite controlar o acesso aos dados e fornece uma interface controlada para interagir com eles.
